@@ -3,13 +3,13 @@ My Journey To Learn C#
  
 ## day 01
  
-## day 02
-
 - What is C# 
 - Data Types in C# 
 - What is Namespaces
 - What is Classes
- 
+
+## day 02
+
 ## day 03
  
 ## day 04
