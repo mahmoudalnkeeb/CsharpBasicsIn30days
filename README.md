@@ -10,6 +10,9 @@ My Journey To Learn C#
 
 ## day 02
 
+- Strings
+- Numbers
+
 ## day 03
  
 ## day 04
